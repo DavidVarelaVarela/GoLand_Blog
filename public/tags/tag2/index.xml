@@ -6,13 +6,67 @@
     <description>Recent content in tag2 on Hugo Theme Dream</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Fri, 08 Jan 2021 17:39:16 +0100</lastBuildDate><atom:link href="https://example.com/tags/tag2/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Jan 2021 18:40:35 +0100</lastBuildDate><atom:link href="https://example.com/tags/tag2/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Michel</title>
+      <link>https://example.com/posts/michel/</link>
+      <pubDate>Fri, 08 Jan 2021 18:40:35 +0100</pubDate>
+      
+      <guid>https://example.com/posts/michel/</guid>
+      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Kilo</title>
+      <link>https://example.com/posts/kilo/</link>
+      <pubDate>Fri, 08 Jan 2021 18:39:42 +0100</pubDate>
+      
+      <guid>https://example.com/posts/kilo/</guid>
+      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Uniform</title>
+      <link>https://example.com/posts/uniform/</link>
+      <pubDate>Fri, 08 Jan 2021 18:39:19 +0100</pubDate>
+      
+      <guid>https://example.com/posts/uniform/</guid>
+      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Foxtrot</title>
+      <link>https://example.com/posts/foxtrot/</link>
+      <pubDate>Fri, 08 Jan 2021 18:38:52 +0100</pubDate>
+      
+      <guid>https://example.com/posts/foxtrot/</guid>
+      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>3d Print</title>
+      <link>https://example.com/posts/3d-print/</link>
+      <pubDate>Fri, 08 Jan 2021 18:38:02 +0100</pubDate>
+      
+      <guid>https://example.com/posts/3d-print/</guid>
+      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
+    </item>
+    
     <item>
       <title>El davicito</title>
       <link>https://example.com/posts/articletitle/</link>
       <pubDate>Fri, 08 Jan 2021 17:39:16 +0100</pubDate>
       
       <guid>https://example.com/posts/articletitle/</guid>
+      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Charlie</title>
+      <link>https://example.com/posts/charlie/</link>
+      <pubDate>Thu, 07 Jan 2021 18:39:28 +0100</pubDate>
+      
+      <guid>https://example.com/posts/charlie/</guid>
       <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
     </item>
     

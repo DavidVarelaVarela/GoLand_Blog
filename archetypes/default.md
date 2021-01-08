@@ -11,7 +11,7 @@ categories:
 tags:
   - tag1
   - tag2
-draft: true
+ draft: true
 ---
 
 Cut out summary from your post content here.
